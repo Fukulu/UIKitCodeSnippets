@@ -2,6 +2,8 @@
 ### Projelerde Swift UIKit dilini kullanirken genelde ihtiyac duydugum bazi gorsel tasarim yada yardimci kodlarin kisayollari
 ### Snippets of some visual design or helper code that I usually need when using Swift UIKit language in my projects
 
+# UIKitCodeSnippets/Controller/ViewController.swift
+
 1) Kullaniciya Uyari sunumu (Present Alert)
 2) Navigation Bar tasarimini yukarida bulunan Hat Servis saglayici ve  batarya bolumunude kapsar sekilde duzenlemek (Full Nav Bar Design)
 3) Daha iyi bir kullanici deneyimi adina butonlara tiklanildiginda kullanilacak efekt cesitleri. (Button Tap Effects)
