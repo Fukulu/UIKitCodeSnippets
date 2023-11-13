@@ -406,6 +406,7 @@ extension UIImageView {
         }
     }
 }
+
 extension UIImage {
     public class func gif(data: Data) -> UIImage? {
         // Create source from data
